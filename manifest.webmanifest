@@ -1,0 +1,16 @@
+{
+  "name": "Carnet de forme",
+  "short_name": "Carnet",
+  "description": "Carnet de suivi quotidien : poids, repas, activité, sommeil. Les données restent sur votre téléphone.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9eeec",
+  "theme_color": "#e9eeec",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
