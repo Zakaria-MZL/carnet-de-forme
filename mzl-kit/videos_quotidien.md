@@ -8,7 +8,6 @@ Chaîne YouTube « MZL Maroc » (@mzlmaroc, ID UC_lW0gNFUOOIGrJbtd9ZohA). Public
    b = await fetch('<URL>').then(r=>r.blob()) ; f = new File([b], '<nom>.mp4', {type:'video/mp4'}) ; DataTransfer → input.files ; dispatchEvent(new Event('change',{bubbles:true})).
    Le téléchargement peut dépasser 45 s : lancer le script, attendre, puis vérifier que le champ titre apparaît.
 3. Titre : clic, ctrl+a, taper le titre (Shorts : ajouter « #Shorts »). Description : gabarit ci-dessous.
-C1. 21-facade-vitree-piscine.mp4 | — (pas de vidéo classique) | Une façade vitrée qui s'ouvre sur la piscine | https://www.mzl.ma/baies-vitrees | En coulisses : une façade vitrée qui s'ouvre sur la piscine, en accéléré | #baievitree
 4. « Non, elle n'est pas conçue pour les enfants », Suivant ×3, « Publique », Publier (si hors écran : JavaScript, chercher #done-button dans les shadowRoot et .click()). Vérifier le message de mise en ligne / traitement.
 
 URL vidéo classique (16:9) : https://zakaria-mzl.github.io/carnet-de-forme/mzl-videos/mzl-<fichier classique>
@@ -25,7 +24,6 @@ WhatsApp : +212 7 07 05 05 55
 1. Onglet Chrome https://www.tiktok.com/tiktokstudio/upload. Si la page de connexion s'affiche : sauter TikTok et le signaler (ne jamais saisir de mot de passe).
 2. D'abord mcp__remote-devices__device_stage_files sur C:\Users\ADMIN\Pictures\photos mzl\selection reseaux sociaux\videos-publicitaires\tiktok\<fichier vertical> (versions de moins de 3,8 Mo), puis find « input file » et mcp__claude-in-chrome__file_upload (origin https://www.tiktok.com) avec le chemin STAGÉ /mnt/user-data/uploads/Pictures/photos mzl/selection reseaux sociaux/videos-publicitaires/tiktok/<fichier vertical> (le chemin Windows est refusé). Si une fenêtre « vérifications automatiques » apparaît : Annuler. Cliquer dans la zone de texte de la légende avant ctrl+a/Backspace.
 3. Légende : « <titre> – <phrase produit>. Devis gratuit 7 j/7 : www.mzl.ma – WhatsApp +212 7 07 05 05 55 #maroc #mzl <hashtag> #fabriquéaumaroc ». Visibilité : Tout le monde. Publier. Vérifier. Au moindre avertissement de TikTok : arrêter et prévenir.
-C1. 21-facade-vitree-piscine.mp4 | — (pas de vidéo classique) | Une façade vitrée qui s'ouvre sur la piscine | https://www.mzl.ma/baies-vitrees | En coulisses : une façade vitrée qui s'ouvre sur la piscine, en accéléré | #baievitree
 
 ## Liste (ordre de publication) — fichier vertical | fichier classique | titre | page | phrase produit | hashtag
 Déjà publiés le 19/11/2026 : vidéo classique chalets (https://youtu.be/IkcNRLbVmj4) ; Short kiosques (02). TikTok : kiosques (02) publié le 19/11 (en cours d'examen).
