@@ -22,11 +22,11 @@ WhatsApp : +212 7 07 05 05 55
 
 ## Méthode TikTok (Claude in Chrome — le navigateur intégré bloque le chargement de fichiers sur TikTok)
 1. Onglet Chrome https://www.tiktok.com/tiktokstudio/upload. Si la page de connexion s'affiche : sauter TikTok et le signaler (ne jamais saisir de mot de passe).
-2. find « input file » puis mcp__claude-in-chrome__file_upload avec le chemin C:\Users\ADMIN\Pictures\photos mzl\selection reseaux sociaux\videos-publicitaires\tiktok\<fichier vertical> (versions de moins de 3,8 Mo).
+2. D'abord mcp__remote-devices__device_stage_files sur C:\Users\ADMIN\Pictures\photos mzl\selection reseaux sociaux\videos-publicitaires\tiktok\<fichier vertical> (versions de moins de 3,8 Mo), puis find « input file » et mcp__claude-in-chrome__file_upload (origin https://www.tiktok.com) avec le chemin STAGÉ /mnt/user-data/uploads/Pictures/photos mzl/selection reseaux sociaux/videos-publicitaires/tiktok/<fichier vertical> (le chemin Windows est refusé). Si une fenêtre « vérifications automatiques » apparaît : Annuler. Cliquer dans la zone de texte de la légende avant ctrl+a/Backspace.
 3. Légende : « <titre> – <phrase produit>. Devis gratuit 7 j/7 : www.mzl.ma – WhatsApp +212 7 07 05 05 55 #maroc #mzl <hashtag> #fabriquéaumaroc ». Visibilité : Tout le monde. Publier. Vérifier. Au moindre avertissement de TikTok : arrêter et prévenir.
 
 ## Liste (ordre de publication) — fichier vertical | fichier classique | titre | page | phrase produit | hashtag
-Déjà publiés le 19/11/2026 : vidéo classique chalets (https://youtu.be/IkcNRLbVmj4) ; Short kiosques (02). TikTok : rien encore.
+Déjà publiés le 19/11/2026 : vidéo classique chalets (https://youtu.be/IkcNRLbVmj4) ; Short kiosques (02). TikTok : kiosques (02) publié le 19/11 (en cours d'examen).
 1. 02-kiosques-bois.mp4 | 02-kiosques-bois.mp4 | Kiosques en bois au Maroc pour événements et food courts | https://www.mzl.ma/kiosque-bois-maroc | Kiosques en bois démontables sur mesure pour food courts, cafés, boutiques et événements ; références : Trophée Hassan II de golf, finale LGCT Rabat, Jazzablanca | #kiosquebois
 2. 01-chalets-bois.mp4 | 01-chalets-bois.mp4 | Chalets en bois au Maroc, de 24 à 180 m² | https://www.mzl.ma/chalet | Chalets et bungalows en bois démontables de 24 à 180 m² | #chaletbois
 3. 07-abris-de-piscine.mp4 | 07-abris-de-piscine.mp4 | Abris de piscine sur mesure au Maroc | https://www.mzl.ma/abri-de-piscine | Abris de piscine bas, mi-hauts et hauts | #abripiscine
