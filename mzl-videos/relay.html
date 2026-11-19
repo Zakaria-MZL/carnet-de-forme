@@ -1,0 +1,11 @@
+<!doctype html><meta charset="utf-8"><title>relay</title>
+<script>
+addEventListener('message',async e=>{
+  const ok=['https://www.tiktok.com','https://studio.youtube.com'];
+  if(!ok.includes(e.origin)||!e.data||!e.data.file)return;
+  if(!/^[a-z0-9\-\/]+\.mp4$/.test(e.data.file))return;
+  try{const b=await fetch('./'+e.data.file).then(r=>r.blob());e.source.postMessage({blob:b,file:e.data.file},e.origin);}
+  catch(err){e.source.postMessage({error:String(err)},e.origin);}
+});
+parent!==window&&parent.postMessage({ready:true},'*');
+</script>
